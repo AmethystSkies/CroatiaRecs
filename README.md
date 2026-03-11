@@ -1,4 +1,4 @@
-![Croatian Coat of Arms](images/crest_croatia.png)
+![Croatian Coat of Arms](images/crest_croatia.jpg)
 
 # 🇭🇷 Croatia: A Complete Travel Guide
 
@@ -30,7 +30,7 @@
 
 <a id="sec-zagreb"></a>
 
-## ![](images/crest_zagreb.png) Zagreb & Continental Croatia
+## ![](images/crest_zagreb.jpg) Zagreb & Continental Croatia
 
 *Capital city culture, Plitvice Lakes & the continental interior. I recommend starting your Croatia trip by flying into Zagreb — it's the best option for convenience and cost. There isn't too much to see here, so I would drive straight to Plitvice from here.*
 
@@ -70,7 +70,7 @@
 
 <a id="sec-istria"></a>
 
-## ![](images/crest_istria.png) Istria Peninsula
+## ![](images/crest_istria.jpg) Istria Peninsula
 
 *Croatia's Italian corner — truffles, seafood, hilltop towns & Adriatic coastline*
 
@@ -128,7 +128,7 @@
 
 <a id="sec-kvarner"></a>
 
-## ![](images/crest_kvarner.png) Kvarner Gulf
+## ![](images/crest_kvarner.jpg) Kvarner Gulf
 
 *Habsburg elegance, accessible islands & the gateway between Istria and Dalmatia*
 
@@ -156,7 +156,7 @@
 
 <a id="sec-ndalmatia"></a>
 
-## ![](images/crest_dalmatia.png) Northern Dalmatia
+## ![](images/crest_dalmatia.jpg) Northern Dalmatia
 
 *Zadar, Šibenik, Plitvice, Pag Island & the Bourdain food trail*
 
@@ -214,7 +214,7 @@
 
 <a id="sec-cdalmatia"></a>
 
-## ![](images/crest_dalmatia_central.png) Central Dalmatia
+## ![](images/crest_dalmatia_central.jpg) Central Dalmatia
 
 *Split, Trogir, Hvar, Brač, Korčula, Vis & the island-hopping route. Split is an awesome old Roman seaside city with amazing food and some really fun nightclubs. I would say 2 days are solid in Split.*
 
@@ -288,7 +288,7 @@
 
 <a id="sec-sdalmatia"></a>
 
-## ![](images/crest_dubrovnik.png) Southern Dalmatia
+## ![](images/crest_dubrovnik.jpg) Southern Dalmatia
 
 *Dubrovnik, Pelješac, Cavtat, the Elaphiti Islands & the Konavle Valley. My family is from a village right outside of Dubrovnik, where I've spent a lot of my summers growing up. I would say you should spend at least 3 days here as there is a lot to see.*
 
