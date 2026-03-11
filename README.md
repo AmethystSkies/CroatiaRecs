@@ -1,31 +1,30 @@
-<p align="center">
-  <img src="images/crest_croatia.png" alt="Croatian Coat of Arms" width="120">
-</p>
+![Croatian Coat of Arms](images/crest_croatia.png)
 
-<h1 align="center">🇭🇷 Croatia: A Complete Travel Guide</h1>
+# 🇭🇷 Croatia: A Complete Travel Guide
 
-<p align="center"><i>My Personal Recommendations & Curated Travel Guide</i></p>
-<p align="center"><b>By Niko Zivanovich</b></p>
+### *My Personal Recommendations & Curated Travel Guide*
 
-<p align="center">📌 = My personal Google Maps saves · 🍷 = Anthony Bourdain priority picks</p>
+**By Niko Zivanovich**
+
+📌 = My personal Google Maps saves · 🍷 = Anthony Bourdain priority picks
 
 ---
 
 ## 📋 Contents
 
 **Northern Croatia**
-- [Zagreb & Continental Croatia](#sec-zagreb)
-- [Istria Peninsula](#sec-istria)
-- [Kvarner Gulf](#sec-kvarner)
+- [Zagreb & Continental Croatia](#-zagreb--continental-croatia)
+- [Istria Peninsula](#-istria-peninsula)
+- [Kvarner Gulf](#-kvarner-gulf)
 
 **Dalmatia**
-- [Northern Dalmatia — Zadar, Šibenik & Plitvice Lakes](#sec-ndalmatia)
-- [Central Dalmatia — Split, Hvar, Korčula, Brač & Vis](#sec-cdalmatia)
-- [Southern Dalmatia — Dubrovnik, Pelješac & the Islands](#sec-sdalmatia)
+- [Northern Dalmatia — Zadar, Šibenik & Plitvice Lakes](#-northern-dalmatia)
+- [Central Dalmatia — Split, Hvar, Korčula, Brač & Vis](#-central-dalmatia)
+- [Southern Dalmatia — Dubrovnik, Pelješac & the Islands](#-southern-dalmatia)
 
 **General Tips & Bourdain Route**
-- [General Croatia Travel Tips](#sec-tips)
-- [🍷 The Bourdain Route](#sec-bourdain)
+- [General Croatia Travel Tips](#general-croatia-travel-tips)
+- [🍷 The Bourdain Route](#-the-bourdain-route)
 
 ---
 
